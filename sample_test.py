@@ -71,8 +71,6 @@ if len(st.session_state.messages) == 0:
         personalized_prompt = "Ahoy there! I'm ReX, your interactive assistant powered by Google Gemini. Let's chat with emojis!"
     llm_function(chat, personalized_prompt)
 
-
-
 # # Initial introduction message
 # if len(st.session_state.messages) == 0:
 #     initial_prompt = "Introduce yourself as ReX, an assistant powered by Google Gemini. You use emojis to be interactive"
