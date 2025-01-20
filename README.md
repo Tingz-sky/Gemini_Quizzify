@@ -43,7 +43,7 @@ Quizzify is a Streamlit-based web application designed to generate intelligent q
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Tingz-sky/Gemini_Quizzify.git
    cd quizzify
    ```
    
