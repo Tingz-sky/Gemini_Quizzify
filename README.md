@@ -4,6 +4,9 @@ Quizzify is a Streamlit-based web application designed to generate intelligent q
 
 ---
 
+## Demo
+[Watch the Demo](https://youtu.be/W7-s1UqQsFA)
+
 ## Features
 
 - **PDF Upload and Processing**: 
